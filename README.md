@@ -7,9 +7,10 @@ https://quantumexperience.ng.bluemix.net/qx/experience
 go to setting and copy the API token for accessing the IBM Q from your python shell
 
 
-pre requiest
-1. Python installation
-2.IBM Q user access 
+Pre requiest
+* Python installation
+* pip install qiskit
+* IBM Q user access 
 
 
 After that enjoy the code and see the magic
